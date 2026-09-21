@@ -1,0 +1,2812 @@
+[
+    {
+        "food_item": "Artichoke",
+        "grams": 128,
+        "calories": 60
+    },
+    {
+        "food_item": "Arugula",
+        "grams": 2,
+        "calories": 1
+    },
+    {
+        "food_item": "Asparagus",
+        "grams": 12,
+        "calories": 2
+    },
+    {
+        "food_item": "Aubergine",
+        "grams": 458,
+        "calories": 115
+    },
+    {
+        "food_item": "Beetroot",
+        "grams": 82,
+        "calories": 35
+    },
+    {
+        "food_item": "Bell Pepper",
+        "grams": 73,
+        "calories": 15
+    },
+    {
+        "food_item": "Black Olives",
+        "grams": null,
+        "calories": 2
+    },
+    {
+        "food_item": "Broccoli",
+        "grams": 608,
+        "calories": 207
+    },
+    {
+        "food_item": "Brussels Sprouts",
+        "grams": 19,
+        "calories": 8
+    },
+    {
+        "food_item": "Cabbage",
+        "grams": 908,
+        "calories": 227
+    },
+    {
+        "food_item": "Capsicum",
+        "grams": 45,
+        "calories": 12
+    },
+    {
+        "food_item": "Carrot",
+        "grams": 61,
+        "calories": 25
+    },
+    {
+        "food_item": "Cauliflower",
+        "grams": 13,
+        "calories": 3
+    },
+    {
+        "food_item": "Celery",
+        "grams": 40,
+        "calories": 6
+    },
+    {
+        "food_item": "Chard",
+        "grams": 48,
+        "calories": 9
+    },
+    {
+        "food_item": "Cherry Tomato",
+        "grams": 20,
+        "calories": 20
+    },
+    {
+        "food_item": "Chicory",
+        "grams": 53,
+        "calories": 38
+    },
+    {
+        "food_item": "Chinese Cabbage",
+        "grams": 840,
+        "calories": 134
+    },
+    {
+        "food_item": "Chives",
+        "grams": 3,
+        "calories": 1
+    },
+    {
+        "food_item": "Collard Greens",
+        "grams": 36,
+        "calories": 12
+    },
+    {
+        "food_item": "Corn",
+        "grams": 154,
+        "calories": 562
+    },
+    {
+        "food_item": "Courgette",
+        "grams": 196,
+        "calories": 33
+    },
+    {
+        "food_item": "Creamed Spinach",
+        "grams": 200,
+        "calories": 148
+    },
+    {
+        "food_item": "Cucumber",
+        "grams": 410,
+        "calories": 66
+    },
+    {
+        "food_item": "Eggplant",
+        "grams": 458,
+        "calories": 115
+    },
+    {
+        "food_item": "Endive",
+        "grams": 513,
+        "calories": 87
+    },
+    {
+        "food_item": "Fennel",
+        "grams": 234,
+        "calories": 73
+    },
+    {
+        "food_item": "Garlic",
+        "grams": 3,
+        "calories": 4
+    },
+    {
+        "food_item": "Gherkin",
+        "grams": 65,
+        "calories": 9
+    },
+    {
+        "food_item": "Gourd",
+        "grams": 771,
+        "calories": 108
+    },
+    {
+        "food_item": "Green Beans",
+        "grams": 110,
+        "calories": 34
+    },
+    {
+        "food_item": "Green Olives",
+        "grams": null,
+        "calories": 2
+    },
+    {
+        "food_item": "Green Onion",
+        "grams": 15,
+        "calories": 5
+    },
+    {
+        "food_item": "Horseradish",
+        "grams": 15,
+        "calories": 7
+    },
+    {
+        "food_item": "Kale",
+        "grams": 67,
+        "calories": 33
+    },
+    {
+        "food_item": "Kohlrabi",
+        "grams": 400,
+        "calories": 108
+    },
+    {
+        "food_item": "Kumara",
+        "grams": 130,
+        "calories": 112
+    },
+    {
+        "food_item": "Leek",
+        "grams": 89,
+        "calories": 54
+    },
+    {
+        "food_item": "Lettuce",
+        "grams": 600,
+        "calories": 90
+    },
+    {
+        "food_item": "Mushrooms",
+        "grams": null,
+        "calories": 1
+    },
+    {
+        "food_item": "Mustard Greens",
+        "grams": 56,
+        "calories": 15
+    },
+    {
+        "food_item": "Nori",
+        "grams": null,
+        "calories": 1
+    },
+    {
+        "food_item": "Okra",
+        "grams": 12,
+        "calories": 4
+    },
+    {
+        "food_item": "Olives",
+        "grams": null,
+        "calories": 2
+    },
+    {
+        "food_item": "Onion",
+        "grams": 85,
+        "calories": 34
+    },
+    {
+        "food_item": "Parsnips",
+        "grams": 170,
+        "calories": 128
+    },
+    {
+        "food_item": "Peas",
+        "grams": 98,
+        "calories": 79
+    },
+    {
+        "food_item": "Pepper",
+        "grams": 75,
+        "calories": 20
+    },
+    {
+        "food_item": "Potato",
+        "grams": 213,
+        "calories": 164
+    },
+    {
+        "food_item": "Pumpkin",
+        "grams": 196,
+        "calories": 51
+    },
+    {
+        "food_item": "Radishes",
+        "grams": null,
+        "calories": 1
+    },
+    {
+        "food_item": "Red Cabbage",
+        "grams": 22,
+        "calories": 7
+    },
+    {
+        "food_item": "Rutabaga",
+        "grams": 386,
+        "calories": 147
+    },
+    {
+        "food_item": "Shallots",
+        "grams": 25,
+        "calories": 18
+    },
+    {
+        "food_item": "Spinach",
+        "grams": 340,
+        "calories": 78
+    },
+    {
+        "food_item": "Squash",
+        "grams": 196,
+        "calories": 88
+    },
+    {
+        "food_item": "Sweet Potato",
+        "grams": 130,
+        "calories": 112
+    },
+    {
+        "food_item": "Tomato",
+        "grams": 111,
+        "calories": 20
+    },
+    {
+        "food_item": "Turnip Greens",
+        "grams": 170,
+        "calories": 34
+    },
+    {
+        "food_item": "Turnips",
+        "grams": 122,
+        "calories": 34
+    },
+    {
+        "food_item": "Wasabi",
+        "grams": 169,
+        "calories": 184
+    },
+    {
+        "food_item": "Winter Squash",
+        "grams": 431,
+        "calories": 147
+    },
+    {
+        "food_item": "Zucchini",
+        "grams": 196,
+        "calories": 33
+    },
+    {
+        "food_item": "Acai",
+        "grams": null,
+        "calories": 20
+    },
+    {
+        "food_item": "Apple",
+        "grams": 182,
+        "calories": 95
+    },
+    {
+        "food_item": "Applesauce",
+        "grams": 246,
+        "calories": 167
+    },
+    {
+        "food_item": "Apricot",
+        "grams": 35,
+        "calories": 17
+    },
+    {
+        "food_item": "Avocado",
+        "grams": 200,
+        "calories": 320
+    },
+    {
+        "food_item": "Banana",
+        "grams": 125,
+        "calories": 111
+    },
+    {
+        "food_item": "Blackberries",
+        "grams": 144,
+        "calories": 62
+    },
+    {
+        "food_item": "Blood Oranges",
+        "grams": 140,
+        "calories": 70
+    },
+    {
+        "food_item": "Blueberries",
+        "grams": 148,
+        "calories": 84
+    },
+    {
+        "food_item": "Cantaloupe",
+        "grams": 69,
+        "calories": 23
+    },
+    {
+        "food_item": "Cherries",
+        "grams": 8,
+        "calories": 4
+    },
+    {
+        "food_item": "Clementine",
+        "grams": 74,
+        "calories": 35
+    },
+    {
+        "food_item": "Cranberries",
+        "grams": 100,
+        "calories": 46
+    },
+    {
+        "food_item": "Currants",
+        "grams": 112,
+        "calories": 63
+    },
+    {
+        "food_item": "Custard Apple",
+        "grams": 135,
+        "calories": 136
+    },
+    {
+        "food_item": "Dates",
+        "grams": null,
+        "calories": 20
+    },
+    {
+        "food_item": "Figs",
+        "grams": 50,
+        "calories": 37
+    },
+    {
+        "food_item": "Fruit salad",
+        "grams": 249,
+        "calories": 125
+    },
+    {
+        "food_item": "Grapes",
+        "grams": 151,
+        "calories": 104
+    },
+    {
+        "food_item": "Greengage",
+        "grams": 5,
+        "calories": 2
+    },
+    {
+        "food_item": "Guava",
+        "grams": 55,
+        "calories": 37
+    },
+    {
+        "food_item": "Jackfruit",
+        "grams": 151,
+        "calories": 143
+    },
+    {
+        "food_item": "Jujube",
+        "grams": null,
+        "calories": 22
+    },
+    {
+        "food_item": "Kiwi",
+        "grams": 183,
+        "calories": 112
+    },
+    {
+        "food_item": "Lemon",
+        "grams": 58,
+        "calories": 17
+    },
+    {
+        "food_item": "Lime",
+        "grams": 67,
+        "calories": 20
+    },
+    {
+        "food_item": "Lychees",
+        "grams": 10,
+        "calories": 7
+    },
+    {
+        "food_item": "Mandarin Oranges",
+        "grams": 88,
+        "calories": 47
+    },
+    {
+        "food_item": "Mango",
+        "grams": 336,
+        "calories": 202
+    },
+    {
+        "food_item": "Minneola",
+        "grams": 109,
+        "calories": 70
+    },
+    {
+        "food_item": "Mulberries",
+        "grams": 140,
+        "calories": 60
+    },
+    {
+        "food_item": "Nectarine",
+        "grams": 150,
+        "calories": 66
+    },
+    {
+        "food_item": "Olives",
+        "grams": null,
+        "calories": 2
+    },
+    {
+        "food_item": "Orange",
+        "grams": 131,
+        "calories": 62
+    },
+    {
+        "food_item": "Papaya",
+        "grams": 500,
+        "calories": 215
+    },
+    {
+        "food_item": "Passion Fruit",
+        "grams": 18,
+        "calories": 17
+    },
+    {
+        "food_item": "Peach",
+        "grams": 150,
+        "calories": 59
+    },
+    {
+        "food_item": "Pear",
+        "grams": 178,
+        "calories": 101
+    },
+    {
+        "food_item": "Persimmon",
+        "grams": 25,
+        "calories": 32
+    },
+    {
+        "food_item": "Physalis",
+        "grams": 5,
+        "calories": 2
+    },
+    {
+        "food_item": "Pineapple",
+        "grams": 905,
+        "calories": 453
+    },
+    {
+        "food_item": "Plantains",
+        "grams": 179,
+        "calories": 218
+    },
+    {
+        "food_item": "Plum",
+        "grams": 66,
+        "calories": 30
+    },
+    {
+        "food_item": "Pomegranate",
+        "grams": 282,
+        "calories": 234
+    },
+    {
+        "food_item": "Quince",
+        "grams": 92,
+        "calories": 52
+    },
+    {
+        "food_item": "Raisins",
+        "grams": 145,
+        "calories": 434
+    },
+    {
+        "food_item": "Rambutan",
+        "grams": 9,
+        "calories": 7
+    },
+    {
+        "food_item": "Raspberries",
+        "grams": 123,
+        "calories": 64
+    },
+    {
+        "food_item": "Rhubarb",
+        "grams": 51,
+        "calories": 11
+    },
+    {
+        "food_item": "Starfruit",
+        "grams": 91,
+        "calories": 28
+    },
+    {
+        "food_item": "Strawberries",
+        "grams": 152,
+        "calories": 49
+    },
+    {
+        "food_item": "Tamarind",
+        "grams": 2,
+        "calories": 5
+    },
+    {
+        "food_item": "Tangerine",
+        "grams": 88,
+        "calories": 47
+    },
+    {
+        "food_item": "Watermelon",
+        "grams": 286,
+        "calories": 86
+    },
+    {
+        "food_item": "Baby Back Ribs",
+        "grams": 139,
+        "calories": 360
+    },
+    {
+        "food_item": "Bacon and Eggs",
+        "grams": 214,
+        "calories": 539
+    },
+    {
+        "food_item": "Baked Beans",
+        "grams": 260,
+        "calories": 244
+    },
+    {
+        "food_item": "BBQ Ribs",
+        "grams": 141,
+        "calories": 360
+    },
+    {
+        "food_item": "Beef Stew",
+        "grams": 196,
+        "calories": 186
+    },
+    {
+        "food_item": "Biryani",
+        "grams": 275,
+        "calories": 484
+    },
+    {
+        "food_item": "Black Pudding",
+        "grams": 40,
+        "calories": 101
+    },
+    {
+        "food_item": "Black Rice",
+        "grams": 100,
+        "calories": 323
+    },
+    {
+        "food_item": "BLT",
+        "grams": 240,
+        "calories": 593
+    },
+    {
+        "food_item": "Brown Rice",
+        "grams": 185,
+        "calories": 670
+    },
+    {
+        "food_item": "Burrito",
+        "grams": 200,
+        "calories": 326
+    },
+    {
+        "food_item": "Butter Chicken",
+        "grams": 350,
+        "calories": 490
+    },
+    {
+        "food_item": "California Roll",
+        "grams": 35,
+        "calories": 33
+    },
+    {
+        "food_item": "Chicken Caesar Salad",
+        "grams": 309,
+        "calories": 392
+    },
+    {
+        "food_item": "Chicken Fried Steak",
+        "grams": 280,
+        "calories": 423
+    },
+    {
+        "food_item": "Chicken Marsala",
+        "grams": 2301,
+        "calories": 2209
+    },
+    {
+        "food_item": "Chicken Parmesan",
+        "grams": 227,
+        "calories": 250
+    },
+    {
+        "food_item": "Chicken Pot Pie",
+        "grams": 302,
+        "calories": 673
+    },
+    {
+        "food_item": "Chicken Tikka Masala",
+        "grams": 241,
+        "calories": 195
+    },
+    {
+        "food_item": "Chili con Carne",
+        "grams": 253,
+        "calories": 266
+    },
+    {
+        "food_item": "Chimichanga",
+        "grams": 180,
+        "calories": 418
+    },
+    {
+        "food_item": "Cobb Salad",
+        "grams": 536,
+        "calories": 632
+    },
+    {
+        "food_item": "Collard Greens",
+        "grams": 45,
+        "calories": 13
+    },
+    {
+        "food_item": "Corn Dog",
+        "grams": 175,
+        "calories": 438
+    },
+    {
+        "food_item": "Corned Beef Hash",
+        "grams": 213,
+        "calories": 349
+    },
+    {
+        "food_item": "Cottage Pie",
+        "grams": 376,
+        "calories": 523
+    },
+    {
+        "food_item": "Dal",
+        "grams": 92,
+        "calories": 304
+    },
+    {
+        "food_item": "Deviled Eggs",
+        "grams": 31,
+        "calories": 62
+    },
+    {
+        "food_item": "Dim Sum",
+        "grams": 19,
+        "calories": 37
+    },
+    {
+        "food_item": "Dosa",
+        "grams": 435,
+        "calories": 287
+    },
+    {
+        "food_item": "Enchiladas",
+        "grams": 192,
+        "calories": 323
+    },
+    {
+        "food_item": "Fajita",
+        "grams": 248,
+        "calories": 290
+    },
+    {
+        "food_item": "Fish and Chips",
+        "grams": 300,
+        "calories": 585
+    },
+    {
+        "food_item": "Fried Rice",
+        "grams": 356,
+        "calories": 662
+    },
+    {
+        "food_item": "Fried Shrimp",
+        "grams": 27,
+        "calories": 75
+    },
+    {
+        "food_item": "Grilled Cheese Sandwich",
+        "grams": 136,
+        "calories": 392
+    },
+    {
+        "food_item": "Ham and Cheese Sandwich",
+        "grams": 146,
+        "calories": 352
+    },
+    {
+        "food_item": "Hummus",
+        "grams": 246,
+        "calories": 435
+    },
+    {
+        "food_item": "Jambalaya",
+        "grams": 250,
+        "calories": 250
+    },
+    {
+        "food_item": "Kebab",
+        "grams": 360,
+        "calories": 774
+    },
+    {
+        "food_item": "Lasagne",
+        "grams": 215,
+        "calories": 284
+    },
+    {
+        "food_item": "Mac and Cheese",
+        "grams": 189,
+        "calories": 699
+    },
+    {
+        "food_item": "Macaroni and Cheese",
+        "grams": 189,
+        "calories": 699
+    },
+    {
+        "food_item": "Mashed Potatoes",
+        "grams": 210,
+        "calories": 174
+    },
+    {
+        "food_item": "Meat Pie",
+        "grams": 120,
+        "calories": 290
+    },
+    {
+        "food_item": "Meatloaf",
+        "grams": 284,
+        "calories": 721
+    },
+    {
+        "food_item": "Naan",
+        "grams": 84,
+        "calories": 260
+    },
+    {
+        "food_item": "Orange Chicken",
+        "grams": 162,
+        "calories": 420
+    },
+    {
+        "food_item": "Pad Thai",
+        "grams": 250,
+        "calories": 375
+    },
+    {
+        "food_item": "Paella",
+        "grams": 128,
+        "calories": 200
+    },
+    {
+        "food_item": "Paratha",
+        "grams": 80,
+        "calories": 260
+    },
+    {
+        "food_item": "Pea Soup",
+        "grams": 253,
+        "calories": 190
+    },
+    {
+        "food_item": "Peanut Butter Sandwich",
+        "grams": 49,
+        "calories": 200
+    },
+    {
+        "food_item": "Peking Duck",
+        "grams": 178,
+        "calories": 401
+    },
+    {
+        "food_item": "Philly Cheese Steak",
+        "grams": 120,
+        "calories": 300
+    },
+    {
+        "food_item": "Pizza",
+        "grams": 102,
+        "calories": 272
+    },
+    {
+        "food_item": "Pork Chop",
+        "grams": 131,
+        "calories": 295
+    },
+    {
+        "food_item": "Potato Salad",
+        "grams": 95,
+        "calories": 136
+    },
+    {
+        "food_item": "Pulled Pork Sandwich",
+        "grams": 261,
+        "calories": 551
+    },
+    {
+        "food_item": "Ramen",
+        "grams": 85,
+        "calories": 380
+    },
+    {
+        "food_item": "Ravioli",
+        "grams": 66,
+        "calories": 134
+    },
+    {
+        "food_item": "Reuben Sandwich",
+        "grams": 308,
+        "calories": 641
+    },
+    {
+        "food_item": "Roast Beef",
+        "grams": 21,
+        "calories": 23
+    },
+    {
+        "food_item": "Roast Dinner",
+        "grams": 121,
+        "calories": 240
+    },
+    {
+        "food_item": "Samosa",
+        "grams": 50,
+        "calories": 107
+    },
+    {
+        "food_item": "Sausage Roll",
+        "grams": 103,
+        "calories": 361
+    },
+    {
+        "food_item": "Sausage Rolls",
+        "grams": 34,
+        "calories": 101
+    },
+    {
+        "food_item": "Shepherds Pie",
+        "grams": 227,
+        "calories": 159
+    },
+    {
+        "food_item": "Shrimp Cocktail",
+        "grams": 28,
+        "calories": 130
+    },
+    {
+        "food_item": "Sloppy Joe",
+        "grams": 142,
+        "calories": 101
+    },
+    {
+        "food_item": "Sloppy Joes",
+        "grams": 258,
+        "calories": 397
+    },
+    {
+        "food_item": "Spaghetti Bolognese",
+        "grams": 283,
+        "calories": 374
+    },
+    {
+        "food_item": "Spring Roll",
+        "grams": 140,
+        "calories": 350
+    },
+    {
+        "food_item": "Spring Rolls",
+        "grams": 140,
+        "calories": 350
+    },
+    {
+        "food_item": "Taco",
+        "grams": 98,
+        "calories": 213
+    },
+    {
+        "food_item": "Tandoori Chicken",
+        "grams": 175,
+        "calories": 198
+    },
+    {
+        "food_item": "Yorkshire Pudding",
+        "grams": 15,
+        "calories": 83
+    },
+    {
+        "food_item": "Amaranth",
+        "grams": 193,
+        "calories": 716
+    },
+    {
+        "food_item": "Barley",
+        "grams": 157,
+        "calories": 556
+    },
+    {
+        "food_item": "Barley Groats",
+        "grams": 31,
+        "calories": 31
+    },
+    {
+        "food_item": "Brown Rice",
+        "grams": 195,
+        "calories": 757
+    },
+    {
+        "food_item": "Buckwheat",
+        "grams": 170,
+        "calories": 583
+    },
+    {
+        "food_item": "Buckwheat Groats",
+        "grams": 164,
+        "calories": 567
+    },
+    {
+        "food_item": "Corn Waffles",
+        "grams": 40,
+        "calories": 110
+    },
+    {
+        "food_item": "Cornmeal",
+        "grams": 122,
+        "calories": 442
+    },
+    {
+        "food_item": "Cornstarch",
+        "grams": 128,
+        "calories": 488
+    },
+    {
+        "food_item": "Couscous",
+        "grams": 173,
+        "calories": 650
+    },
+    {
+        "food_item": "Cracker",
+        "grams": 7,
+        "calories": 35
+    },
+    {
+        "food_item": "Durum Wheat Semolina",
+        "grams": 30,
+        "calories": 119
+    },
+    {
+        "food_item": "Flaxseed",
+        "grams": 168,
+        "calories": 897
+    },
+    {
+        "food_item": "Freekeh",
+        "grams": 160,
+        "calories": 832
+    },
+    {
+        "food_item": "Gluten",
+        "grams": 28,
+        "calories": 104
+    },
+    {
+        "food_item": "Grissini",
+        "grams": 5,
+        "calories": 20
+    },
+    {
+        "food_item": "Kamut",
+        "grams": 186,
+        "calories": 627
+    },
+    {
+        "food_item": "Millet",
+        "grams": 128,
+        "calories": 484
+    },
+    {
+        "food_item": "Millet Flour",
+        "grams": 140,
+        "calories": 521
+    },
+    {
+        "food_item": "Millet Gruel",
+        "grams": 174,
+        "calories": 80
+    },
+    {
+        "food_item": "Oat Bran",
+        "grams": 94,
+        "calories": 231
+    },
+    {
+        "food_item": "Pearl Barley",
+        "grams": 157,
+        "calories": 553
+    },
+    {
+        "food_item": "Polenta",
+        "grams": 150,
+        "calories": 549
+    },
+    {
+        "food_item": "Prawn Crackers",
+        "grams": 3,
+        "calories": 16
+    },
+    {
+        "food_item": "Pretzel Sticks",
+        "grams": 12,
+        "calories": 46
+    },
+    {
+        "food_item": "Quinoa",
+        "grams": 170,
+        "calories": 626
+    },
+    {
+        "food_item": "Rusk",
+        "grams": 10,
+        "calories": 41
+    },
+    {
+        "food_item": "Rye Bran",
+        "grams": 150,
+        "calories": 422
+    },
+    {
+        "food_item": "Sago",
+        "grams": 28,
+        "calories": 99
+    },
+    {
+        "food_item": "Savoury Biscuits",
+        "grams": 40,
+        "calories": 139
+    },
+    {
+        "food_item": "Shortbread",
+        "grams": 19,
+        "calories": 95
+    },
+    {
+        "food_item": "Spelt",
+        "grams": 174,
+        "calories": 588
+    },
+    {
+        "food_item": "Spelt Bran",
+        "grams": 160,
+        "calories": 283
+    },
+    {
+        "food_item": "Spelt Semolina",
+        "grams": 167,
+        "calories": 601
+    },
+    {
+        "food_item": "Sunflower Seeds",
+        "grams": 140,
+        "calories": 818
+    },
+    {
+        "food_item": "Tortilla",
+        "grams": 197,
+        "calories": 467
+    },
+    {
+        "food_item": "Tortilla Chips",
+        "grams": 32,
+        "calories": 160
+    },
+    {
+        "food_item": "Wheat Bran",
+        "grams": 58,
+        "calories": 125
+    },
+    {
+        "food_item": "Wheat Germ",
+        "grams": 113,
+        "calories": 432
+    },
+    {
+        "food_item": "Wheat Gluten",
+        "grams": 3,
+        "calories": 10
+    },
+    {
+        "food_item": "Wheat Semolina",
+        "grams": 167,
+        "calories": 601
+    },
+    {
+        "food_item": "Wheat Starch",
+        "grams": 110,
+        "calories": 386
+    },
+    {
+        "food_item": "Whole Grain Wheat",
+        "grams": 120,
+        "calories": 407
+    },
+    {
+        "food_item": "Wholegrain Oat",
+        "grams": 80,
+        "calories": 300
+    },
+    {
+        "food_item": "Almond Oil",
+        "grams": null,
+        "calories": 123
+    },
+    {
+        "food_item": "Apricot Kernel Oil",
+        "grams": null,
+        "calories": 124
+    },
+    {
+        "food_item": "Argan Oil",
+        "grams": null,
+        "calories": 125
+    },
+    {
+        "food_item": "Avocado Oil",
+        "grams": null,
+        "calories": 120
+    },
+    {
+        "food_item": "Babassu Oil",
+        "grams": null,
+        "calories": 124
+    },
+    {
+        "food_item": "Canola Oil",
+        "grams": null,
+        "calories": 124
+    },
+    {
+        "food_item": "Coconut Oil",
+        "grams": null,
+        "calories": 120
+    },
+    {
+        "food_item": "Corn Oil",
+        "grams": null,
+        "calories": 120
+    },
+    {
+        "food_item": "Cottonseed Oil",
+        "grams": null,
+        "calories": 123
+    },
+    {
+        "food_item": "Flaxseed Oil",
+        "grams": null,
+        "calories": 124
+    },
+    {
+        "food_item": "Grape Seed Oil",
+        "grams": null,
+        "calories": 124
+    },
+    {
+        "food_item": "Hazelnut Oil",
+        "grams": null,
+        "calories": 124
+    },
+    {
+        "food_item": "Linseed Oil",
+        "grams": null,
+        "calories": 117
+    },
+    {
+        "food_item": "Menhaden Oil",
+        "grams": null,
+        "calories": 128
+    },
+    {
+        "food_item": "Mustard Oil",
+        "grams": null,
+        "calories": 124
+    },
+    {
+        "food_item": "Oat Oil",
+        "grams": null,
+        "calories": 124
+    },
+    {
+        "food_item": "Olive Oil",
+        "grams": null,
+        "calories": 120
+    },
+    {
+        "food_item": "Palm Kernel Oil",
+        "grams": null,
+        "calories": 123
+    },
+    {
+        "food_item": "Palm Oil",
+        "grams": null,
+        "calories": 123
+    },
+    {
+        "food_item": "Peanut Oil",
+        "grams": null,
+        "calories": 120
+    },
+    {
+        "food_item": "Poppy Seed Oil",
+        "grams": null,
+        "calories": 124
+    },
+    {
+        "food_item": "Pumpkin Seed Oil",
+        "grams": null,
+        "calories": 123
+    },
+    {
+        "food_item": "Rice Bran Oil",
+        "grams": null,
+        "calories": 124
+    },
+    {
+        "food_item": "Safflower Oil",
+        "grams": null,
+        "calories": 120
+    },
+    {
+        "food_item": "Salmon Oil",
+        "grams": null,
+        "calories": 128
+    },
+    {
+        "food_item": "Sesame Oil",
+        "grams": null,
+        "calories": 124
+    },
+    {
+        "food_item": "Shea Oil",
+        "grams": null,
+        "calories": 124
+    },
+    {
+        "food_item": "Soy Oil",
+        "grams": null,
+        "calories": 123
+    },
+    {
+        "food_item": "Sunflower Oil",
+        "grams": null,
+        "calories": 124
+    },
+    {
+        "food_item": "Tomato Seed Oil",
+        "grams": null,
+        "calories": 124
+    },
+    {
+        "food_item": "Vegetable Oil",
+        "grams": null,
+        "calories": 120
+    },
+    {
+        "food_item": "Walnut Oil",
+        "grams": null,
+        "calories": 124
+    },
+    {
+        "food_item": "Wheat Germ Oil",
+        "grams": null,
+        "calories": 130
+    },
+    {
+        "food_item": "Alphabet Soup",
+        "grams": 248,
+        "calories": 62
+    },
+    {
+        "food_item": "Bean Stew",
+        "grams": 252,
+        "calories": 335
+    },
+    {
+        "food_item": "Beef Bouillon",
+        "grams": 240,
+        "calories": 7
+    },
+    {
+        "food_item": "Beef Noodle Soup",
+        "grams": 244,
+        "calories": 83
+    },
+    {
+        "food_item": "Beef Soup",
+        "grams": 213,
+        "calories": 70
+    },
+    {
+        "food_item": "Bouillon",
+        "grams": 244,
+        "calories": 39
+    },
+    {
+        "food_item": "Broccoli Cheese Soup",
+        "grams": 303,
+        "calories": 264
+    },
+    {
+        "food_item": "Broccoli Soup",
+        "grams": 237,
+        "calories": 206
+    },
+    {
+        "food_item": "Cabbage Soup",
+        "grams": 245,
+        "calories": 69
+    },
+    {
+        "food_item": "Carrot Ginger Soup",
+        "grams": 381,
+        "calories": 95
+    },
+    {
+        "food_item": "Carrot Soup",
+        "grams": 381,
+        "calories": 95
+    },
+    {
+        "food_item": "Chicken Bouillon",
+        "grams": 241,
+        "calories": 10
+    },
+    {
+        "food_item": "Chicken Broth",
+        "grams": 244,
+        "calories": 39
+    },
+    {
+        "food_item": "Chicken Gumbo Soup",
+        "grams": 244,
+        "calories": 56
+    },
+    {
+        "food_item": "Chicken Noodle Soup",
+        "grams": 248,
+        "calories": 62
+    },
+    {
+        "food_item": "Chicken Stock",
+        "grams": 244,
+        "calories": 39
+    },
+    {
+        "food_item": "Chicken Vegetable Soup",
+        "grams": 248,
+        "calories": 77
+    },
+    {
+        "food_item": "Chicken with Rice Soup",
+        "grams": 243,
+        "calories": 58
+    },
+    {
+        "food_item": "Cream of Asparagus Soup",
+        "grams": 244,
+        "calories": 85
+    },
+    {
+        "food_item": "Cream of Broccoli Soup",
+        "grams": 310,
+        "calories": 140
+    },
+    {
+        "food_item": "Cream of Celery Soup",
+        "grams": 248,
+        "calories": 92
+    },
+    {
+        "food_item": "Cream of Chicken Soup",
+        "grams": 244,
+        "calories": 117
+    },
+    {
+        "food_item": "Cream of Mushroom Soup",
+        "grams": 248,
+        "calories": 97
+    },
+    {
+        "food_item": "Cream of Onion Soup",
+        "grams": 244,
+        "calories": 107
+    },
+    {
+        "food_item": "Cream of Potato Soup",
+        "grams": 244,
+        "calories": 73
+    },
+    {
+        "food_item": "Creamy Chicken Noodle Soup",
+        "grams": 245,
+        "calories": 56
+    },
+    {
+        "food_item": "French Onion Soup",
+        "grams": 243,
+        "calories": 56
+    },
+    {
+        "food_item": "Golden Mushroom Soup",
+        "grams": 248,
+        "calories": 161
+    },
+    {
+        "food_item": "Goulash",
+        "grams": 187,
+        "calories": 1887
+    },
+    {
+        "food_item": "Instant Ramen",
+        "grams": 85,
+        "calories": 371
+    },
+    {
+        "food_item": "Lentil Soup",
+        "grams": 248,
+        "calories": 139
+    },
+    {
+        "food_item": "Lobster Bisque Soup",
+        "grams": 248,
+        "calories": 248
+    },
+    {
+        "food_item": "Meatball Soup",
+        "grams": 245,
+        "calories": 120
+    },
+    {
+        "food_item": "Minestrone",
+        "grams": 241,
+        "calories": 82
+    },
+    {
+        "food_item": "Mushroom Soup",
+        "grams": 244,
+        "calories": 85
+    },
+    {
+        "food_item": "Noodle Soup",
+        "grams": 244,
+        "calories": 83
+    },
+    {
+        "food_item": "Onion Soup",
+        "grams": 243,
+        "calories": 56
+    },
+    {
+        "food_item": "Oxtail Soup",
+        "grams": 244,
+        "calories": 68
+    },
+    {
+        "food_item": "Pea Soup",
+        "grams": 253,
+        "calories": 190
+    },
+    {
+        "food_item": "Potato Soup",
+        "grams": 240,
+        "calories": 192
+    },
+    {
+        "food_item": "Pumpkin Soup",
+        "grams": 245,
+        "calories": 71
+    },
+    {
+        "food_item": "Ramen",
+        "grams": 85,
+        "calories": 371
+    },
+    {
+        "food_item": "Scotch Broth",
+        "grams": 241,
+        "calories": 80
+    },
+    {
+        "food_item": "Succotash",
+        "grams": 192,
+        "calories": 221
+    },
+    {
+        "food_item": "Thai Soup",
+        "grams": 245,
+        "calories": 147
+    },
+    {
+        "food_item": "Tomato Rice Soup",
+        "grams": 247,
+        "calories": 116
+    },
+    {
+        "food_item": "Tomato Soup",
+        "grams": 248,
+        "calories": 74
+    },
+    {
+        "food_item": "Vegetable Beef Soup",
+        "grams": 244,
+        "calories": 76
+    },
+    {
+        "food_item": "Vegetable Broth",
+        "grams": 235,
+        "calories": 12
+    },
+    {
+        "food_item": "Vegetable Soup",
+        "grams": 241,
+        "calories": 67
+    },
+    {
+        "food_item": "Vegetable Stock",
+        "grams": 235,
+        "calories": 12
+    },
+    {
+        "food_item": "Wedding Soup",
+        "grams": 245,
+        "calories": 130
+    },
+    {
+        "food_item": "Baskin-Robbins",
+        "grams": 71,
+        "calories": 170
+    },
+    {
+        "food_item": "Ben and Jerry's",
+        "grams": 92,
+        "calories": 210
+    },
+    {
+        "food_item": "Butter Pecan Ice Cream",
+        "grams": 113,
+        "calories": 280
+    },
+    {
+        "food_item": "Carvel",
+        "grams": 212,
+        "calories": 449
+    },
+    {
+        "food_item": "Chocolate Chip Ice Cream",
+        "grams": 72,
+        "calories": 155
+    },
+    {
+        "food_item": "Chocolate Ice Cream",
+        "grams": 72,
+        "calories": 156
+    },
+    {
+        "food_item": "Ciao Bella",
+        "grams": 220,
+        "calories": 240
+    },
+    {
+        "food_item": "Coffee Ice Cream",
+        "grams": 72,
+        "calories": 170
+    },
+    {
+        "food_item": "Cold Stone Creamery",
+        "grams": 142,
+        "calories": 329
+    },
+    {
+        "food_item": "Cookie Dough Ice Cream",
+        "grams": 65,
+        "calories": 130
+    },
+    {
+        "food_item": "Crunchie McFlurry",
+        "grams": 183,
+        "calories": 318
+    },
+    {
+        "food_item": "Dairy Milk McFlurry",
+        "grams": 183,
+        "calories": 340
+    },
+    {
+        "food_item": "Dippin Dots",
+        "grams": 170,
+        "calories": 381
+    },
+    {
+        "food_item": "Double Rainbow",
+        "grams": 72,
+        "calories": 185
+    },
+    {
+        "food_item": "Drumsticks",
+        "grams": 141,
+        "calories": 360
+    },
+    {
+        "food_item": "French Vanilla Ice Cream",
+        "grams": 72,
+        "calories": 145
+    },
+    {
+        "food_item": "Friendly's",
+        "grams": 66,
+        "calories": 140
+    },
+    {
+        "food_item": "Healthy Choice",
+        "grams": 64,
+        "calories": 80
+    },
+    {
+        "food_item": "Hot Fudge Sundae",
+        "grams": 179,
+        "calories": 333
+    },
+    {
+        "food_item": "Ice Cream Sandwich",
+        "grams": 112,
+        "calories": 265
+    },
+    {
+        "food_item": "Ice Cream Sundae",
+        "grams": 178,
+        "calories": 253
+    },
+    {
+        "food_item": "Ice Milk",
+        "grams": 103,
+        "calories": 164
+    },
+    {
+        "food_item": "Magnolia",
+        "grams": 72,
+        "calories": 166
+    },
+    {
+        "food_item": "Magnum",
+        "grams": 86,
+        "calories": 258
+    },
+    {
+        "food_item": "Magnum Almond",
+        "grams": 86,
+        "calories": 271
+    },
+    {
+        "food_item": "Magnum Double Caramel",
+        "grams": 86,
+        "calories": 305
+    },
+    {
+        "food_item": "Magnum Double Chocolate",
+        "grams": 86,
+        "calories": 327
+    },
+    {
+        "food_item": "Magnum Gold",
+        "grams": 85,
+        "calories": 290
+    },
+    {
+        "food_item": "Magnum White",
+        "grams": 86,
+        "calories": 255
+    },
+    {
+        "food_item": "McFlurry",
+        "grams": 134,
+        "calories": 205
+    },
+    {
+        "food_item": "McFlurry Oreo",
+        "grams": 183,
+        "calories": 340
+    },
+    {
+        "food_item": "Mini Milk",
+        "grams": 25,
+        "calories": 30
+    },
+    {
+        "food_item": "Mint Chocolate Chip Ice Cream",
+        "grams": 72,
+        "calories": 172
+    },
+    {
+        "food_item": "Rocky Road Ice Cream",
+        "grams": 113,
+        "calories": 290
+    },
+    {
+        "food_item": "Schwan's",
+        "grams": 72,
+        "calories": 177
+    },
+    {
+        "food_item": "Smarties McFlurry",
+        "grams": 202,
+        "calories": 400
+    },
+    {
+        "food_item": "Snickers Ice Cream",
+        "grams": 50,
+        "calories": 180
+    },
+    {
+        "food_item": "Soft Serve",
+        "grams": 86,
+        "calories": 191
+    },
+    {
+        "food_item": "Solero",
+        "grams": 75,
+        "calories": 75
+    },
+    {
+        "food_item": "Strawberry Ice Cream",
+        "grams": 72,
+        "calories": 170
+    },
+    {
+        "food_item": "Strawberry Sundae",
+        "grams": 178,
+        "calories": 281
+    },
+    {
+        "food_item": "Sundae",
+        "grams": 72,
+        "calories": 155
+    },
+    {
+        "food_item": "Turkey Hill",
+        "grams": 70,
+        "calories": 190
+    },
+    {
+        "food_item": "Vanilla Cone",
+        "grams": 142,
+        "calories": 230
+    },
+    {
+        "food_item": "Vanilla Ice Cream",
+        "grams": 72,
+        "calories": 145
+    },
+    {
+        "food_item": "Cannelloni",
+        "grams": 56,
+        "calories": 82
+    },
+    {
+        "food_item": "Capellini",
+        "grams": 56,
+        "calories": 198
+    },
+    {
+        "food_item": "Cappelletti",
+        "grams": 56,
+        "calories": 92
+    },
+    {
+        "food_item": "Cellophane Noodles",
+        "grams": 140,
+        "calories": 491
+    },
+    {
+        "food_item": "Cheese Tortellini",
+        "grams": 113,
+        "calories": 329
+    },
+    {
+        "food_item": "Dampfnudel",
+        "grams": 85,
+        "calories": 233
+    },
+    {
+        "food_item": "Dumpling Dough",
+        "grams": 56,
+        "calories": 55
+    },
+    {
+        "food_item": "Durum Wheat Semolina",
+        "grams": 56,
+        "calories": 222
+    },
+    {
+        "food_item": "Egg Noodles",
+        "grams": 38,
+        "calories": 146
+    },
+    {
+        "food_item": "Farfalle",
+        "grams": 56,
+        "calories": 200
+    },
+    {
+        "food_item": "Fettuccine",
+        "grams": 56,
+        "calories": 198
+    },
+    {
+        "food_item": "Fusilli",
+        "grams": 56,
+        "calories": 197
+    },
+    {
+        "food_item": "Glass Noodles",
+        "grams": 56,
+        "calories": 108
+    },
+    {
+        "food_item": "Lasagne Sheets",
+        "grams": 21,
+        "calories": 57
+    },
+    {
+        "food_item": "Linguine",
+        "grams": 56,
+        "calories": 200
+    },
+    {
+        "food_item": "Low Carb Pasta",
+        "grams": 56,
+        "calories": 158
+    },
+    {
+        "food_item": "Macaroni",
+        "grams": 114,
+        "calories": 422
+    },
+    {
+        "food_item": "Manicotti",
+        "grams": 56,
+        "calories": 200
+    },
+    {
+        "food_item": "Mostaccioli",
+        "grams": 56,
+        "calories": 103
+    },
+    {
+        "food_item": "Orecchiette",
+        "grams": 56,
+        "calories": 207
+    },
+    {
+        "food_item": "Orzo",
+        "grams": 56,
+        "calories": 200
+    },
+    {
+        "food_item": "Penne",
+        "grams": 56,
+        "calories": 197
+    },
+    {
+        "food_item": "Penne Rigate",
+        "grams": 56,
+        "calories": 207
+    },
+    {
+        "food_item": "Pierogi",
+        "grams": 100,
+        "calories": 200
+    },
+    {
+        "food_item": "Ravioli",
+        "grams": 56,
+        "calories": 43
+    },
+    {
+        "food_item": "Rigatoni",
+        "grams": 56,
+        "calories": 198
+    },
+    {
+        "food_item": "Rotini",
+        "grams": 56,
+        "calories": 198
+    },
+    {
+        "food_item": "Shells",
+        "grams": 85,
+        "calories": 300
+    },
+    {
+        "food_item": "Shirataki Noodles",
+        "grams": 56,
+        "calories": 10
+    },
+    {
+        "food_item": "Soy Noodles",
+        "grams": 56,
+        "calories": 121
+    },
+    {
+        "food_item": "Spaetzle",
+        "grams": 56,
+        "calories": 206
+    },
+    {
+        "food_item": "Spaghetti",
+        "grams": 56,
+        "calories": 207
+    },
+    {
+        "food_item": "Spinach Tortellini",
+        "grams": 102,
+        "calories": 320
+    },
+    {
+        "food_item": "Spirelli",
+        "grams": 56,
+        "calories": 206
+    },
+    {
+        "food_item": "Tagliatelle",
+        "grams": 56,
+        "calories": 207
+    },
+    {
+        "food_item": "Tortellini",
+        "grams": 113,
+        "calories": 329
+    },
+    {
+        "food_item": "Vermicelli",
+        "grams": 56,
+        "calories": 206
+    },
+    {
+        "food_item": "Whole Grain Noodles",
+        "grams": 56,
+        "calories": 194
+    },
+    {
+        "food_item": "Whole Grain Spaghetti",
+        "grams": 56,
+        "calories": 197
+    },
+    {
+        "food_item": "Ziti",
+        "grams": 56,
+        "calories": 197
+    },
+    {
+        "food_item": "BBQ Chicken Pizza",
+        "grams": 132,
+        "calories": 309
+    },
+    {
+        "food_item": "BBQ Pizza",
+        "grams": 140,
+        "calories": 314
+    },
+    {
+        "food_item": "Beef Pizza",
+        "grams": 235,
+        "calories": 714
+    },
+    {
+        "food_item": "Bianca Pizza",
+        "grams": 187,
+        "calories": 460
+    },
+    {
+        "food_item": "Buffalo Chicken Pizza",
+        "grams": 238,
+        "calories": 600
+    },
+    {
+        "food_item": "Calabrese Pizza",
+        "grams": 108,
+        "calories": 254
+    },
+    {
+        "food_item": "Calzone",
+        "grams": 364,
+        "calories": 841
+    },
+    {
+        "food_item": "Capricciosa Pizza",
+        "grams": 74,
+        "calories": 192
+    },
+    {
+        "food_item": "Cheese Pizza",
+        "grams": 63,
+        "calories": 168
+    },
+    {
+        "food_item": "Chicken Pizza",
+        "grams": 132,
+        "calories": 309
+    },
+    {
+        "food_item": "Deep Dish Pizza",
+        "grams": 118,
+        "calories": 313
+    },
+    {
+        "food_item": "Dominos Philly Cheese Steak Pizza",
+        "grams": 159,
+        "calories": 356
+    },
+    {
+        "food_item": "Four Cheese Pizza",
+        "grams": 113,
+        "calories": 250
+    },
+    {
+        "food_item": "Goat Cheese Pizza",
+        "grams": 63,
+        "calories": 138
+    },
+    {
+        "food_item": "Grilled Pizza",
+        "grams": 124,
+        "calories": 280
+    },
+    {
+        "food_item": "Hawaiian Pizza",
+        "grams": 134,
+        "calories": 154
+    },
+    {
+        "food_item": "Margherita Pizza",
+        "grams": 63,
+        "calories": 173
+    },
+    {
+        "food_item": "Mozzarella Pizza",
+        "grams": 62,
+        "calories": 154
+    },
+    {
+        "food_item": "Mushroom Pizza",
+        "grams": 288,
+        "calories": 611
+    },
+    {
+        "food_item": "Napoli Pizza",
+        "grams": 123,
+        "calories": 248
+    },
+    {
+        "food_item": "New York Style Pizza",
+        "grams": 103,
+        "calories": 174
+    },
+    {
+        "food_item": "Pepperoni Pizza",
+        "grams": 71,
+        "calories": 181
+    },
+    {
+        "food_item": "Pizza Dough",
+        "grams": 57,
+        "calories": 130
+    },
+    {
+        "food_item": "Pizza Hut Stuffed Crust Pizza",
+        "grams": 149,
+        "calories": 380
+    },
+    {
+        "food_item": "Pizza Hut Supreme Pizza",
+        "grams": 123,
+        "calories": 305
+    },
+    {
+        "food_item": "Pizza Rolls",
+        "grams": 14,
+        "calories": 35
+    },
+    {
+        "food_item": "Quattro Formaggi Pizza",
+        "grams": 133,
+        "calories": 330
+    },
+    {
+        "food_item": "Red Pepper Pizza",
+        "grams": 86,
+        "calories": 165
+    },
+    {
+        "food_item": "Salami Pizza",
+        "grams": 71,
+        "calories": 181
+    },
+    {
+        "food_item": "Sausage Pizza",
+        "grams": 72,
+        "calories": 177
+    },
+    {
+        "food_item": "Seafood Pizza",
+        "grams": 76,
+        "calories": 186
+    },
+    {
+        "food_item": "Shrimp Pizza",
+        "grams": 91,
+        "calories": 190
+    },
+    {
+        "food_item": "Sicilian Pizza",
+        "grams": 133,
+        "calories": 321
+    },
+    {
+        "food_item": "Spinach Feta Pizza",
+        "grams": 62,
+        "calories": 150
+    },
+    {
+        "food_item": "Spinach Pizza",
+        "grams": 62,
+        "calories": 145
+    },
+    {
+        "food_item": "Stuffed Crust Pizza",
+        "grams": 149,
+        "calories": 380
+    },
+    {
+        "food_item": "Tarte Flambée",
+        "grams": 56,
+        "calories": 142
+    },
+    {
+        "food_item": "Thin Crust Pizza",
+        "grams": 60,
+        "calories": 157
+    },
+    {
+        "food_item": "Tuna Pizza",
+        "grams": 125,
+        "calories": 318
+    },
+    {
+        "food_item": "Vegetable Pizza",
+        "grams": 156,
+        "calories": 399
+    },
+    {
+        "food_item": "Vegetarian Pizza",
+        "grams": 156,
+        "calories": 399
+    },
+    {
+        "food_item": "Veggie Pizza",
+        "grams": 114,
+        "calories": 263
+    },
+    {
+        "food_item": "White Pizza",
+        "grams": 232,
+        "calories": 571
+    },
+    {
+        "food_item": "Acerola",
+        "grams": null,
+        "calories": 1
+    },
+    {
+        "food_item": "Asian Pear",
+        "grams": 178,
+        "calories": 75
+    },
+    {
+        "food_item": "Avocado",
+        "grams": 200,
+        "calories": 320
+    },
+    {
+        "food_item": "Banana",
+        "grams": 125,
+        "calories": 111
+    },
+    {
+        "food_item": "Breadfruit",
+        "grams": 96,
+        "calories": 99
+    },
+    {
+        "food_item": "Cantaloupe Melon",
+        "grams": 69,
+        "calories": 23
+    },
+    {
+        "food_item": "Casaba Melon",
+        "grams": 125,
+        "calories": 35
+    },
+    {
+        "food_item": "Cherimoya",
+        "grams": 235,
+        "calories": 176
+    },
+    {
+        "food_item": "Dragon Fruit",
+        "grams": 200,
+        "calories": 120
+    },
+    {
+        "food_item": "Durian",
+        "grams": 602,
+        "calories": 885
+    },
+    {
+        "food_item": "Feijoa",
+        "grams": 42,
+        "calories": 23
+    },
+    {
+        "food_item": "Galia Melon",
+        "grams": 130,
+        "calories": 30
+    },
+    {
+        "food_item": "Grapefruit",
+        "grams": 123,
+        "calories": 52
+    },
+    {
+        "food_item": "Guava",
+        "grams": 55,
+        "calories": 37
+    },
+    {
+        "food_item": "Honeydew",
+        "grams": 125,
+        "calories": 45
+    },
+    {
+        "food_item": "Jackfruit",
+        "grams": 151,
+        "calories": 143
+    },
+    {
+        "food_item": "Kiwi",
+        "grams": 183,
+        "calories": 112
+    },
+    {
+        "food_item": "Kumquat",
+        "grams": 19,
+        "calories": 13
+    },
+    {
+        "food_item": "Lychee",
+        "grams": 10,
+        "calories": 7
+    },
+    {
+        "food_item": "Mandarin Oranges",
+        "grams": 90,
+        "calories": 48
+    },
+    {
+        "food_item": "Mango",
+        "grams": 336,
+        "calories": 202
+    },
+    {
+        "food_item": "Mangosteen",
+        "grams": 80,
+        "calories": 58
+    },
+    {
+        "food_item": "Maracuya",
+        "grams": 18,
+        "calories": 17
+    },
+    {
+        "food_item": "Maraschino Cherries",
+        "grams": 5,
+        "calories": 8
+    },
+    {
+        "food_item": "Muskmelon",
+        "grams": 69,
+        "calories": 23
+    },
+    {
+        "food_item": "Noni",
+        "grams": null,
+        "calories": 15
+    },
+    {
+        "food_item": "Passion Fruit",
+        "grams": 18,
+        "calories": 17
+    },
+    {
+        "food_item": "Pineapple",
+        "grams": 905,
+        "calories": 453
+    },
+    {
+        "food_item": "Pink Grapefruit",
+        "grams": 123,
+        "calories": 52
+    },
+    {
+        "food_item": "Plantain",
+        "grams": 179,
+        "calories": 218
+    },
+    {
+        "food_item": "Pomegranate",
+        "grams": 282,
+        "calories": 234
+    },
+    {
+        "food_item": "Pomelo",
+        "grams": 609,
+        "calories": 231
+    },
+    {
+        "food_item": "Prickly Pear",
+        "grams": 19,
+        "calories": 8
+    },
+    {
+        "food_item": "Rambutan",
+        "grams": 9,
+        "calories": 7
+    },
+    {
+        "food_item": "Sapodilla",
+        "grams": 170,
+        "calories": 141
+    },
+    {
+        "food_item": "Soursop Fruit",
+        "grams": 625,
+        "calories": 413
+    },
+    {
+        "food_item": "Star Fruit",
+        "grams": 91,
+        "calories": 28
+    },
+    {
+        "food_item": "Tamarind",
+        "grams": 2,
+        "calories": 5
+    },
+    {
+        "food_item": "Watermelon",
+        "grams": 286,
+        "calories": 86
+    },
+    {
+        "food_item": "Arby's Grand Turkey Club",
+        "grams": 233,
+        "calories": 489
+    },
+    {
+        "food_item": "Arby's Reuben",
+        "grams": 308,
+        "calories": 641
+    },
+    {
+        "food_item": "Arby's Roast Beef Classic",
+        "grams": 154,
+        "calories": 360
+    },
+    {
+        "food_item": "Arby's Roast Beef Max",
+        "grams": 154,
+        "calories": 360
+    },
+    {
+        "food_item": "BBQ Rib",
+        "grams": 67,
+        "calories": 142
+    },
+    {
+        "food_item": "Bean Burrito",
+        "grams": 190,
+        "calories": 380
+    },
+    {
+        "food_item": "Big N' Tasty",
+        "grams": 232,
+        "calories": 517
+    },
+    {
+        "food_item": "Bratwurst",
+        "grams": 85,
+        "calories": 283
+    },
+    {
+        "food_item": "Burger King Angry Whopper",
+        "grams": 290,
+        "calories": 740
+    },
+    {
+        "food_item": "Burger King Double Whopper",
+        "grams": 374,
+        "calories": 894
+    },
+    {
+        "food_item": "Burger King Double Whopper with Cheese",
+        "grams": 399,
+        "calories": 994
+    },
+    {
+        "food_item": "Burger King Original Chicken Sandwich",
+        "grams": 219,
+        "calories": 659
+    },
+    {
+        "food_item": "Burger King Premium Alaskan Fish Sandwich",
+        "grams": 228,
+        "calories": 591
+    },
+    {
+        "food_item": "Burger King Triple Whopper",
+        "grams": 547,
+        "calories": 1471
+    },
+    {
+        "food_item": "Burger King Whopper",
+        "grams": 291,
+        "calories": 672
+    },
+    {
+        "food_item": "Burger King Whopper Jr.",
+        "grams": 148,
+        "calories": 346
+    },
+    {
+        "food_item": "Burger King Whopper with Cheese",
+        "grams": 315,
+        "calories": 759
+    },
+    {
+        "food_item": "Cheeseburger",
+        "grams": 156,
+        "calories": 410
+    },
+    {
+        "food_item": "Chicken Breast",
+        "grams": 71,
+        "calories": 116
+    },
+    {
+        "food_item": "Chicken Fajita",
+        "grams": 222,
+        "calories": 326
+    },
+    {
+        "food_item": "Chicken McNuggets",
+        "grams": 16,
+        "calories": 48
+    },
+    {
+        "food_item": "Chicken Nuggets",
+        "grams": 20,
+        "calories": 59
+    },
+    {
+        "food_item": "Chicken Pizziola",
+        "grams": 320,
+        "calories": 451
+    },
+    {
+        "food_item": "Chicken Sandwich",
+        "grams": 170,
+        "calories": 410
+    },
+    {
+        "food_item": "Chicken Teriyaki Sandwich",
+        "grams": 266,
+        "calories": 367
+    },
+    {
+        "food_item": "Chicken Wings",
+        "grams": 29,
+        "calories": 94
+    },
+    {
+        "food_item": "Chop Suey",
+        "grams": 340,
+        "calories": 585
+    },
+    {
+        "food_item": "Curly Fries",
+        "grams": 128,
+        "calories": 398
+    },
+    {
+        "food_item": "Double Cheeseburger",
+        "grams": 155,
+        "calories": 414
+    },
+    {
+        "food_item": "Egg Roll",
+        "grams": 80,
+        "calories": 200
+    },
+    {
+        "food_item": "Falafel",
+        "grams": 17,
+        "calories": 57
+    },
+    {
+        "food_item": "Filet-o-Fish",
+        "grams": 142,
+        "calories": 400
+    },
+    {
+        "food_item": "Fish and Chips",
+        "grams": 300,
+        "calories": 585
+    },
+    {
+        "food_item": "Fish Sandwich",
+        "grams": 158,
+        "calories": 431
+    },
+    {
+        "food_item": "French Fries",
+        "grams": 71,
+        "calories": 222
+    },
+    {
+        "food_item": "Grilled Chicken Salad",
+        "grams": 305,
+        "calories": 268
+    },
+    {
+        "food_item": "Ham Sandwich",
+        "grams": 146,
+        "calories": 352
+    },
+    {
+        "food_item": "Hamburger",
+        "grams": 110,
+        "calories": 279
+    },
+    {
+        "food_item": "Hot Dog",
+        "grams": 116,
+        "calories": 312
+    },
+    {
+        "food_item": "Italian BMT",
+        "grams": 224,
+        "calories": 410
+    },
+    {
+        "food_item": "Lasagna",
+        "grams": 130,
+        "calories": 172
+    },
+    {
+        "food_item": "McDonald's Big Mac",
+        "grams": 219,
+        "calories": 561
+    },
+    {
+        "food_item": "McDonald's Cheeseburger",
+        "grams": 114,
+        "calories": 300
+    },
+    {
+        "food_item": "McDonald's Chicken Nuggets",
+        "grams": 16,
+        "calories": 48
+    },
+    {
+        "food_item": "McDonald's Double Cheeseburger",
+        "grams": 155,
+        "calories": 437
+    },
+    {
+        "food_item": "McDonald's Filet-o-Fish",
+        "grams": 142,
+        "calories": 391
+    },
+    {
+        "food_item": "McDonald's McChicken",
+        "grams": 143,
+        "calories": 359
+    },
+    {
+        "food_item": "McDonald's McDouble",
+        "grams": 160,
+        "calories": 403
+    },
+    {
+        "food_item": "McDonald's McMuffi Egg",
+        "grams": 129,
+        "calories": 290
+    },
+    {
+        "food_item": "McDonald's McRib",
+        "grams": 170,
+        "calories": 451
+    },
+    {
+        "food_item": "McDonald's Mighty Wings",
+        "grams": 31,
+        "calories": 95
+    },
+    {
+        "food_item": "McRib",
+        "grams": 170,
+        "calories": 451
+    },
+    {
+        "food_item": "Meatball Sandwich",
+        "grams": 299,
+        "calories": 481
+    },
+    {
+        "food_item": "Nachos with Cheese",
+        "grams": 188,
+        "calories": 575
+    },
+    {
+        "food_item": "Onion Rings",
+        "grams": null,
+        "calories": 25
+    },
+    {
+        "food_item": "Poutine",
+        "grams": 225,
+        "calories": 511
+    },
+    {
+        "food_item": "Smoked Salmon",
+        "grams": null,
+        "calories": 44
+    },
+    {
+        "food_item": "Spicy Italian",
+        "grams": 219,
+        "calories": 480
+    },
+    {
+        "food_item": "Subway Club Sandwich",
+        "grams": 238,
+        "calories": 312
+    },
+    {
+        "food_item": "Tortilla Wrap",
+        "grams": 63,
+        "calories": 171
+    },
+    {
+        "food_item": "Tuna",
+        "grams": null,
+        "calories": 24
+    },
+    {
+        "food_item": "Turkey",
+        "grams": null,
+        "calories": 29
+    },
+    {
+        "food_item": "Veggie Burger",
+        "grams": 215,
+        "calories": 389
+    },
+    {
+        "food_item": "Veggie Delight",
+        "grams": 166,
+        "calories": 229
+    },
+    {
+        "food_item": "Veggie Patty",
+        "grams": 247,
+        "calories": 963
+    },
+    {
+        "food_item": "Wendy's Baconator",
+        "grams": 276,
+        "calories": 839
+    },
+    {
+        "food_item": "Wendy's Jr. Bacon Cheeseburger",
+        "grams": 161,
+        "calories": 420
+    },
+    {
+        "food_item": "Wendy's Jr. Cheeseburger",
+        "grams": 129,
+        "calories": 290
+    },
+    {
+        "food_item": "Wendy's Son of Baconator",
+        "grams": 218,
+        "calories": 700
+    },
+    {
+        "food_item": "Whopper",
+        "grams": 291,
+        "calories": 672
+    },
+    {
+        "food_item": "Zinger",
+        "grams": 202,
+        "calories": 517
+    },
+    {
+        "food_item": "Zinger Burger",
+        "grams": 202,
+        "calories": 517
+    }
+]
