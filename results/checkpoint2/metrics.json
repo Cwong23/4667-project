@@ -1,0 +1,306 @@
+{
+  "classes": [
+    "baby_back_ribs",
+    "deviled_eggs",
+    "fish_and_chips",
+    "fried_rice",
+    "grilled_cheese_sandwich",
+    "hummus",
+    "macaroni_and_cheese",
+    "pad_thai",
+    "paella",
+    "peking_duck",
+    "pizza",
+    "pork_chop",
+    "pulled_pork_sandwich",
+    "ramen",
+    "ravioli",
+    "samosa",
+    "spaghetti_bolognese",
+    "spring_rolls",
+    "french_onion_soup",
+    "chicken_wings",
+    "falafel",
+    "french_fries",
+    "hamburger",
+    "hot_dog",
+    "lasagna",
+    "onion_rings",
+    "poutine"
+  ],
+  "missing_grams": [
+    "onion_rings"
+  ],
+  "image_shape": [
+    3,
+    224,
+    224
+  ],
+  "x_train_shape": [
+    20250,
+    512
+  ],
+  "y_train_shape": [
+    20250
+  ],
+  "x_test_shape": [
+    6750,
+    512
+  ],
+  "y_test_shape": [
+    6750
+  ],
+  "train_per_class": 750,
+  "test_per_class": 250,
+  "train_accuracy": 0.8744197530864197,
+  "test_accuracy": 0.712,
+  "test_macro_f1": 0.7111299713864982,
+  "majority_class_accuracy": 0.037037037037037035,
+  "top_confusions": [
+    {
+      "true": "pulled_pork_sandwich",
+      "predicted": "hamburger",
+      "count": 31
+    },
+    {
+      "true": "hamburger",
+      "predicted": "pulled_pork_sandwich",
+      "count": 29
+    },
+    {
+      "true": "pork_chop",
+      "predicted": "baby_back_ribs",
+      "count": 24
+    },
+    {
+      "true": "lasagna",
+      "predicted": "ravioli",
+      "count": 23
+    },
+    {
+      "true": "spaghetti_bolognese",
+      "predicted": "pad_thai",
+      "count": 19
+    },
+    {
+      "true": "baby_back_ribs",
+      "predicted": "pork_chop",
+      "count": 17
+    },
+    {
+      "true": "ravioli",
+      "predicted": "lasagna",
+      "count": 17
+    },
+    {
+      "true": "samosa",
+      "predicted": "spring_rolls",
+      "count": 17
+    }
+  ],
+  "per_class": [
+    {
+      "dish": "baby_back_ribs",
+      "precision": 0.6762295081967213,
+      "recall": 0.66,
+      "f1": 0.6680161943319838,
+      "support": 250
+    },
+    {
+      "dish": "deviled_eggs",
+      "precision": 0.84,
+      "recall": 0.84,
+      "f1": 0.84,
+      "support": 250
+    },
+    {
+      "dish": "fish_and_chips",
+      "precision": 0.6554621848739496,
+      "recall": 0.624,
+      "f1": 0.639344262295082,
+      "support": 250
+    },
+    {
+      "dish": "fried_rice",
+      "precision": 0.7351778656126482,
+      "recall": 0.744,
+      "f1": 0.7395626242544732,
+      "support": 250
+    },
+    {
+      "dish": "grilled_cheese_sandwich",
+      "precision": 0.5909090909090909,
+      "recall": 0.624,
+      "f1": 0.6070038910505836,
+      "support": 250
+    },
+    {
+      "dish": "hummus",
+      "precision": 0.6692913385826772,
+      "recall": 0.68,
+      "f1": 0.6746031746031746,
+      "support": 250
+    },
+    {
+      "dish": "macaroni_and_cheese",
+      "precision": 0.7022900763358778,
+      "recall": 0.736,
+      "f1": 0.71875,
+      "support": 250
+    },
+    {
+      "dish": "pad_thai",
+      "precision": 0.7167832167832168,
+      "recall": 0.82,
+      "f1": 0.7649253731343284,
+      "support": 250
+    },
+    {
+      "dish": "paella",
+      "precision": 0.7439024390243902,
+      "recall": 0.732,
+      "f1": 0.7379032258064516,
+      "support": 250
+    },
+    {
+      "dish": "peking_duck",
+      "precision": 0.7215189873417721,
+      "recall": 0.684,
+      "f1": 0.702258726899384,
+      "support": 250
+    },
+    {
+      "dish": "pizza",
+      "precision": 0.7741935483870968,
+      "recall": 0.864,
+      "f1": 0.8166351606805293,
+      "support": 250
+    },
+    {
+      "dish": "pork_chop",
+      "precision": 0.5697211155378487,
+      "recall": 0.572,
+      "f1": 0.5708582834331337,
+      "support": 250
+    },
+    {
+      "dish": "pulled_pork_sandwich",
+      "precision": 0.5802469135802469,
+      "recall": 0.564,
+      "f1": 0.5720081135902637,
+      "support": 250
+    },
+    {
+      "dish": "ramen",
+      "precision": 0.8484848484848485,
+      "recall": 0.784,
+      "f1": 0.814968814968815,
+      "support": 250
+    },
+    {
+      "dish": "ravioli",
+      "precision": 0.5341880341880342,
+      "recall": 0.5,
+      "f1": 0.5165289256198347,
+      "support": 250
+    },
+    {
+      "dish": "samosa",
+      "precision": 0.717391304347826,
+      "recall": 0.66,
+      "f1": 0.6875,
+      "support": 250
+    },
+    {
+      "dish": "spaghetti_bolognese",
+      "precision": 0.8166666666666667,
+      "recall": 0.784,
+      "f1": 0.8,
+      "support": 250
+    },
+    {
+      "dish": "spring_rolls",
+      "precision": 0.7391304347826086,
+      "recall": 0.68,
+      "f1": 0.7083333333333334,
+      "support": 250
+    },
+    {
+      "dish": "french_onion_soup",
+      "precision": 0.8376068376068376,
+      "recall": 0.784,
+      "f1": 0.8099173553719008,
+      "support": 250
+    },
+    {
+      "dish": "chicken_wings",
+      "precision": 0.7052238805970149,
+      "recall": 0.756,
+      "f1": 0.7297297297297297,
+      "support": 250
+    },
+    {
+      "dish": "falafel",
+      "precision": 0.6946564885496184,
+      "recall": 0.728,
+      "f1": 0.7109375,
+      "support": 250
+    },
+    {
+      "dish": "french_fries",
+      "precision": 0.7340425531914894,
+      "recall": 0.828,
+      "f1": 0.7781954887218046,
+      "support": 250
+    },
+    {
+      "dish": "hamburger",
+      "precision": 0.6468085106382979,
+      "recall": 0.608,
+      "f1": 0.6268041237113402,
+      "support": 250
+    },
+    {
+      "dish": "hot_dog",
+      "precision": 0.819327731092437,
+      "recall": 0.78,
+      "f1": 0.7991803278688525,
+      "support": 250
+    },
+    {
+      "dish": "lasagna",
+      "precision": 0.6157205240174672,
+      "recall": 0.564,
+      "f1": 0.5887265135699373,
+      "support": 250
+    },
+    {
+      "dish": "onion_rings",
+      "precision": 0.8223938223938224,
+      "recall": 0.852,
+      "f1": 0.8369351669941061,
+      "support": 250
+    },
+    {
+      "dish": "poutine",
+      "precision": 0.7121771217712177,
+      "recall": 0.772,
+      "f1": 0.7408829174664108,
+      "support": 250
+    }
+  ],
+  "hyperparameters": {
+    "backbone": "resnet18",
+    "backbone_weights": "ImageNet-1K DEFAULT",
+    "embedding_dim": 512,
+    "classifier": "logistic regression",
+    "C": 1.0,
+    "l1_ratio": 0.0,
+    "solver": "lbfgs",
+    "max_iter": 1000,
+    "random_state": 42
+  },
+  "n_iter": [
+    800
+  ]
+}

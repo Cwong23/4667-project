@@ -1,0 +1,33 @@
+                         precision    recall  f1-score   support
+
+         baby_back_ribs      0.676     0.660     0.668       250
+           deviled_eggs      0.840     0.840     0.840       250
+         fish_and_chips      0.655     0.624     0.639       250
+             fried_rice      0.735     0.744     0.740       250
+grilled_cheese_sandwich      0.591     0.624     0.607       250
+                 hummus      0.669     0.680     0.675       250
+    macaroni_and_cheese      0.702     0.736     0.719       250
+               pad_thai      0.717     0.820     0.765       250
+                 paella      0.744     0.732     0.738       250
+            peking_duck      0.722     0.684     0.702       250
+                  pizza      0.774     0.864     0.817       250
+              pork_chop      0.570     0.572     0.571       250
+   pulled_pork_sandwich      0.580     0.564     0.572       250
+                  ramen      0.848     0.784     0.815       250
+                ravioli      0.534     0.500     0.517       250
+                 samosa      0.717     0.660     0.688       250
+    spaghetti_bolognese      0.817     0.784     0.800       250
+           spring_rolls      0.739     0.680     0.708       250
+      french_onion_soup      0.838     0.784     0.810       250
+          chicken_wings      0.705     0.756     0.730       250
+                falafel      0.695     0.728     0.711       250
+           french_fries      0.734     0.828     0.778       250
+              hamburger      0.647     0.608     0.627       250
+                hot_dog      0.819     0.780     0.799       250
+                lasagna      0.616     0.564     0.589       250
+            onion_rings      0.822     0.852     0.837       250
+                poutine      0.712     0.772     0.741       250
+
+               accuracy                          0.712      6750
+              macro avg      0.712     0.712     0.711      6750
+           weighted avg      0.712     0.712     0.711      6750
