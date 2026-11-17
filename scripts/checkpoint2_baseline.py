@@ -16,6 +16,7 @@ from __future__ import annotations
 import json
 from pathlib import Path
 
+import joblib
 import matplotlib
 
 matplotlib.use("Agg")
@@ -40,6 +41,7 @@ DATA_DIR = ROOT / "model" / "data"
 CALORIES_PATH = ROOT / "scripts" / "food_calories.json"
 OUT_DIR = ROOT / "results" / "checkpoint2"
 CACHE_PATH = DATA_DIR / "checkpoint2_features.npz"
+MODEL_PATH = ROOT / "model" / "checkpoints" / "checkpoint2_logreg.joblib"
 
 BATCH_SIZE = 64
 RANDOM_STATE = 42
@@ -202,7 +204,8 @@ def main() -> None:
     transform = weights.transforms()
     print(f"image transform: {transform}")
 
-    device = torch.device("mps" if torch.backends.mps.is_available() else "cpu")
+    device = torch.device("cuda" if torch.cuda.is_available()
+                          else "mps" if torch.backends.mps.is_available() else "cpu")
     print(f"feature device: {device}")
 
     train_ds = Food101(str(DATA_DIR), split="train", transform=transform, download=True)
@@ -243,6 +246,9 @@ def main() -> None:
     print(f"one image tensor going into the backbone: {tuple(sample_image.shape)}")
 
     clf = fit_baseline(x_train, y_train)
+    MODEL_PATH.parent.mkdir(parents=True, exist_ok=True)
+    joblib.dump({"clf": clf, "classes": classes, "backbone": "resnet18"}, MODEL_PATH)
+    print(f"saved classifier to {MODEL_PATH}")
     train_pred = clf.predict(x_train)
     test_pred = clf.predict(x_test)
     test_proba = clf.predict_proba(x_test)
